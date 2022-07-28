@@ -1,0 +1,20 @@
+{
+  "name": "hackonamazon-finals-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajAdwaita/HackOnAmazon-FINALS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajAdwaita/HackOnAmazon-FINALS-/issues"
+  },
+  "homepage": "https://github.com/RajAdwaita/HackOnAmazon-FINALS-#readme"
+}
