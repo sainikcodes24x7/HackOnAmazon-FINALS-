@@ -1,0 +1,5 @@
+/images/3_192x256.jpeg  /labels/3_192x256.png
+/images/4_192x256.jpeg  /labels/4_192x256.png
+/images/5_192x256.jpeg  /labels/5_192x256.png
+/images/6_192x256.jpeg  /labels/6_192x256.png
+/images/6_192x256.jpg  /labels/6_192x256.png

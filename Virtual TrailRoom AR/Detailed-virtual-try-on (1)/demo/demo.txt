@@ -1,0 +1,7 @@
+1.jpg	2_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test
+2.jpg	2_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test
+fashion_new.jpg	fashion_new_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test 
+3_192x256.jpg	fashion_new_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test 
+4_192x256.jpg	2_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test 
+5_192x256.jpg	2_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test 
+6_192x256.jpg	2_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test 

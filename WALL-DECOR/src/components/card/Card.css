@@ -1,0 +1,109 @@
+.title {
+  font-size: 5rem;
+  margin-top: 1rem;
+  text-align: center;
+  font-family: monospace;
+  /* text-decoration: blink; */
+  color: #500;
+  text-shadow: 1px 1px 5px;
+}
+.cardContainer {
+  width: 35%;
+  margin-left: 10%;
+
+  margin-top: 5rem;
+  box-shadow: 1px 1px 10px -4px;
+  border-radius: 2rem;
+  transition: transform ease 500ms ;
+}
+.cardContainer:hover{
+  transform: scale(0.8);
+}
+.c3 {
+  font-size: 1rem;
+  margin-left: 5rem;
+  font-family: cursive;
+  font-weight: 700;
+  padding-bottom: 1rem;
+  width: 5rem;
+}
+.c4 {
+  /* font-size: 1rem; */
+  font-size: 0.9rem;
+  color: #111;
+  opacity: 0.67;
+  width: 7rem;
+  text-align: left;
+  margin-left: 3rem;
+}
+.p2{
+  text-align: center;
+  opacity: 0.7;
+}
+.scene {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  height: 25rem;
+  perspective: 600px;
+}
+.itemImage ,.back{
+  height: 25rem;
+  
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+.card__face {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  backface-visibility: hidden;
+}
+.card__face--front {
+  background:url("https://firebasestorage.googleapis.com/v0/b/galleria-mart.appspot.com/o/Furniture%2FScreenshot%20(639).png?alt=media&token=b6630818-de71-4bb8-afda-8b9d9193405d") center center;
+  background-size: cover;
+}
+.card.is-flipped {
+  transform: rotateY(180deg);
+}
+.card__face--back {
+  background: url("https://firebasestorage.googleapis.com/v0/b/galleria-mart.appspot.com/o/Furniture%2FScreenshot%20(641).png?alt=media&token=91149e6d-c359-4f36-ac9b-1f89c76d7d14") center center;
+  background-size: cover;
+  transform: rotateY( 180deg );
+}
+.card {
+  width: 100%;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  height: 25rem;
+  /* position: relative; */
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+.itemName {
+  margin-left: 4rem;
+  font-size: 1.7rem;
+  margin-top: 0.5rem;
+  color: #300;
+  font-family: fangsong;
+  font-weight: 600;
+  text-transform: capitalize;
+  opacity: 0.8;
+}
+.id1{
+  background: beige !important;
+    width: 7rem;
+    height: 2.3rem;
+    border-radius: 1rem;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: -6px;
+}
+.mybtn{
+  width: 7rem;
+  height: 2.5rem;
+  margin-top: -.6rem;
+  margin-left: 3rem;
+
+}

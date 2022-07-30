@@ -1,0 +1,1 @@
+/images/6_192x256.jpg /labels/6_192x256.png

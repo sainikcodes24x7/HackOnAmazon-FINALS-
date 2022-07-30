@@ -1,0 +1,12 @@
+.title {
+  font-size: 5rem;
+  margin-top: 1rem;
+  text-align: center;
+  font-family: monospace;
+  /* text-decoration: blink; */
+  color: #500;
+  text-shadow: 1px 1px 5px;
+}
+.loader{
+  display:none;
+}

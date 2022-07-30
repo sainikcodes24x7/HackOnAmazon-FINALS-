@@ -1,0 +1,1 @@
+6.jpg	fashion_new_keypoints.json	1VJ21D02B-Q11@10.1=cloth_front.jpg	test
